@@ -1,4 +1,4 @@
-# Neuffer developers-test
+# Developers-test
 
 We have prepared for you simple test task what as we believe, allow us to estimate your experience.
 It is a small php-script, which should be started in console like:
